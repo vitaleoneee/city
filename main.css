@@ -60,7 +60,7 @@ a:hover{
     color: aliceblue;
     height: 300px;
     width: 70%;
-    background: url('/gorod/img/gorod.jpg');
+    background: url('/city/img/gorod.jpg');
     padding: 0px;
 }
 
@@ -68,7 +68,7 @@ a:hover{
 .img2{
     height: 300px;
     width: 30%;
-    background-image: url('/gorod/img/img1.jpg');
+    background-image: url('/city/img/img1.jpg');
     margin-left: 12px;
 }
 
